@@ -1,4 +1,4 @@
-#Cucumberjs and JSDom example
+# Cucumberjs and JSDom example
 
 This example let yoy run cucumber-js in a jsdom instance. 
 
