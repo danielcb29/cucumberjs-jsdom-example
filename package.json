@@ -1,0 +1,27 @@
+{
+  "name": "cucumberjs-jsdom-example",
+  "version": "0.0.1",
+  "description": "Cucumber-js example using JSDom to run BDD test ",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo starting...",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cucumberjs",
+    "JSDom",
+    "ES6",
+    "BDD",
+    "Test"
+  ],
+  "author": "Daniel Correa <danielc.web@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielcb29/cucumberjs-jsdom-example.git"    
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^3.0.1",
+    "jsdom": "^11.2.0"
+  }
+}
