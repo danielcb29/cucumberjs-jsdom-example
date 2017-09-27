@@ -4,8 +4,8 @@
   "description": "Cucumber-js example using JSDom to run BDD test ",
   "main": "index.js",
   "scripts": {
-    "start": "echo starting...",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run test",
+    "test": "./node_modules/.bin/cucumberjs features --require features/support/setup.js"
   },
   "keywords": [
     "Cucumberjs",
