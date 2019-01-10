@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run test",
-    "test": "./node_modules/.bin/cucumberjs features --require features/support/setup.js"
+    "test": "./node_modules/.bin/cucumberjs features --require features/support/"
   },
   "keywords": [
     "Cucumberjs",
